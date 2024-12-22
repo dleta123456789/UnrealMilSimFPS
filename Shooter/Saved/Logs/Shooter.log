@@ -1367,3 +1367,9 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2024.12.22-15.43.36:276][274]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.370453, Update Interval: 347.367157
 [2024.12.22-15.43.46:899][546]LogSlate: Window 'Editor Preferences' being destroyed
 [2024.12.22-15.43.46:903][546]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.12.22-15.49.26:822][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 667.923523
+[2024.12.22-15.49.27:823][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-15.49.27:823][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 668.589539, Update Interval: 321.859802
+[2024.12.22-15.54.57:204][621]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 998.305786
+[2024.12.22-15.54.58:206][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-15.54.58:206][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 998.975952, Update Interval: 342.002014
