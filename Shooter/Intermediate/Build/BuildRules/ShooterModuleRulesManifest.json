@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Game Development\\Repos\\UnrealMilSimFPS\\Shooter\\Source\\Shooter\\Shooter.Build.cs",
+		"F:\\Game Development\\Repos\\UnrealMilSimFPS\\Shooter\\Source\\Shooter.Target.cs",
+		"F:\\Game Development\\Repos\\UnrealMilSimFPS\\Shooter\\Source\\ShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
